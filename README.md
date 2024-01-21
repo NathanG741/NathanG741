@@ -46,5 +46,8 @@ Technical Diploma for Welding Technology from Universal Technical Institute. Pre
 </td></tr></table>  
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NathanG741&&style=flat-square" align="center" />
+</div>  
+
+<br />
