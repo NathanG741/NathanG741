@@ -10,7 +10,7 @@
 
 
 ### About Me  
-Technical Diploma for Welding Technology from Universal Technical Institute. Previously worked as a welder and a mechanical engineer by trade. While attending Zip Code Wilmington, created a text-based version of the card game 'War' as part of a casino application in Java. Collaboratively developing a messaging application which will operate on a Spring Boot backend, React frontend, and Postgres database while running on an AWS cloud server. The application will allow users to create workspaces and channels as well as send direct messages to communicate either synchronously or asynchronously.  Independently developing a manic shooter style game in a fantasy setting using Java with plans to migrate the game to JavaScript for easier web distribution via a dedicated website in HTML and CSS. Knowledge of Java, Spring Boot, React, SQL, HTML and CSS. Some experience with PostgreSQL, Javascript, Typescript and Angular.   
+Technical Diploma for Welding Technology from Universal Technical Institute. Previously worked as a welder and a mechanical engineer by trade. Recently completed an intense Software Development Bootcamp called Zipcode Wilmington. While attending Zip Code Wilmington, I gained have hands on-experience with developing full-stack applications utiliizing various technologies. I began Independently developing a manic shooter style game in a fantasy setting using Java with plans to migrate the game to JavaScript for easier web distribution via a dedicated website in HTML and CSS. Knowledge of Java, Spring Boot, React, SQL, HTML and CSS. Some experience with PostgreSQL, Javascript, Typescript and Angular.   
   
 
 <br/>
