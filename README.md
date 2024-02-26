@@ -10,7 +10,7 @@
 
 
 ### About Me  
-Technical Diploma for Welding Technology from Universal Technical Institute. Previously worked as a welder and a mechanical engineer by trade. Recently completed an intense Software Development Bootcamp called Zipcode Wilmington. While attending Zip Code Wilmington, I gained have hands on-experience with developing full-stack applications utiliizing various technologies. I began Independently developing a manic shooter style game in a fantasy setting using Java with plans to migrate the game to JavaScript for easier web distribution via a dedicated website in HTML and CSS. Knowledge of Java, Spring Boot, React, SQL, HTML and CSS. Some experience with PostgreSQL, Javascript, Typescript and Angular.   
+Technical Diploma for Welding Technology from Universal Technical Institute. Previously worked as a welder and a mechanical engineer by trade. Recently completed an intense software development bootcamp called Zipcode Wilmington. While attending Zip Code Wilmington, I gained have hands on-experience with developing full-stack applications utiliizing various technologies. I began Independently developing a manic shooter style game in a fantasy setting using Java with plans to migrate the game to JavaScript for easier web distribution via a dedicated website in HTML and CSS. Knowledge of Java, Spring Boot, React, SQL, HTML and CSS. Some experience with PostgreSQL, Javascript, Typescript and Angular.   
   
 
 <br/>
